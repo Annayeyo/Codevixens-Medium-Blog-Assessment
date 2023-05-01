@@ -1,0 +1,16 @@
+body {
+    font-family: 'sohne', serif;
+    font-weight: 400;
+    margin: 0 auto;
+    width: 100%;
+}
+.p, .ul {
+    font-size: 20px;
+}
+#div1 {
+    display: block;
+}
+#img {
+    display: grid;
+    place-items: center;
+}
